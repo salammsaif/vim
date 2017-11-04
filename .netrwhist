@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/salam.msaif/Documents'
+let g:netrw_dirhist_2='/Users/salam.msaif/Documents/learn'
+let g:netrw_dirhist_3='/Users/salam.msaif/Documents/learn/programming'
+let g:netrw_dirhist_4='/Users/salam.msaif/Documents/learn/programming/Python'
+let g:netrw_dirhist_5='/Users/salam.msaif/Documents/learn/programming/Python/game'
